@@ -1,5 +1,3 @@
 # gitskills_liaoxuefeng
-<<<<<<< HEAD
-creating a branch named "dev" is quick!
-=======
->>>>>>> feature1
+Creating a branch is quick!
+Creating a branch is quick & simple!
